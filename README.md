@@ -31,6 +31,8 @@ npm install
 
 # Build static files and start the server
 npm run start
+
+-https://8cbdc63a-mocha-james-version.vanostenjames844.workers.dev/ (doesn't work need to buy a domain to mask the current ip
 ```
 
 ## Support us
