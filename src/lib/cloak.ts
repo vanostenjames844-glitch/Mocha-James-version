@@ -11,6 +11,6 @@ export function handleTabCloak() {
   }
 
   if (tabData.icon) {
-    ;(document.querySelector('link[rel~=icon]') as HTMLLinkElement).href = tabData.icon
+    (document.querySelector('link[rel~=icon]') as HTMLLinkElement).href = tabData.icon || 'https://m.media-amazon.com/images/I/71IHB9-yapL.png';
   }
 }
