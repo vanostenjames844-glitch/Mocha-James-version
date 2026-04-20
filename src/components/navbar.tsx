@@ -24,7 +24,7 @@ export default function Navbar() {
         <div class="navbar-end gap-2">
           <A href="/games">
             <button class="btn btn-ghost h-10 min-h-10" type="button">
-              <Joystick class="h-5 w-5" /> Games
+              <Joystick class="h-5 w-5" /> Games(not available in the demo)
             </button>
           </A>
           <A href="/shortcuts">
