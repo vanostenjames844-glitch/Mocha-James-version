@@ -18,7 +18,7 @@ export default function Game({ game }: { game: GameData }) {
         <h2 class="card-title text-3xl font-bold text-base-content">{game.name}</h2>
         <div class="card-actions absolute bottom-4 right-4 justify-end">
           <button class="btn btn-primary px-8" type="button" onClick={play}>
-            Play
+            Play :3
           </button>
         </div>
       </div>
